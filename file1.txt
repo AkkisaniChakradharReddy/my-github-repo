@@ -1,1 +1,2 @@
 Hello, Gitzhub!
+Added more info to file1
